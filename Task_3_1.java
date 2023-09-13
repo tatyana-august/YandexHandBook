@@ -2,7 +2,7 @@ package YandexHandBook;
 
 import java.util.Scanner;
 
-public class Task{
+public class Task_3_1{
     public static int recursion(int n){
         if(n<0) return 0;
         if(n==1 || n==0)
